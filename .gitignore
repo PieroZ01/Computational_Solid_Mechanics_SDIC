@@ -3,6 +3,15 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Exclude OS generated files
+.DS_Store
+
+# Exlude build directories
+build/
+
+# Exclude .egg-info directories
+*.egg-info/
+
 # User-specific files
 *.rsuser
 *.suo
