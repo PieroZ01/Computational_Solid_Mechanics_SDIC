@@ -52,7 +52,7 @@
 
 The library is designed to be easy to use and understand: the package allows the user to easily define the problem and quickly solve it.
 
-Some tutorials are provided in the `tutorials` folder, where the user can find examples of how to use the library and understand the tipical workflow of solving a problem using the **CSM** framework.
+Some tutorials are provided in the [**tutorials**](tutorials/) folder, where the user can find examples of how to use the library and understand the tipical workflow of solving a problem using the **CSM** framework.
 
 The library is designed to be extensible, so that the user can easily add new features and functionalities.
 
