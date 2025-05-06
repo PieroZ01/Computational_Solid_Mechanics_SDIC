@@ -24,7 +24,7 @@ LDESCRIPTION = (
     "tutorials are provided along with the code. The package was "
     "developed in 2025 as part of the course 'Computational Solid Mechanics', "
     "which is part of the Master's degree in Scientific and Data-Intensive "
-    "Computing at the University of Trieste, Italy.""
+    "Computing at the University of Trieste, Italy."
 )
 
 setup(
@@ -36,7 +36,6 @@ setup(
     author_email=MAIL,
     classifiers=[
         'Development Status :: Production/Stable',
-        'License :: MIT License',
         'Programming Language :: Python :: 3',
         'Intended Audience :: Science/Research',
         'Topic :: Scientific/Engineering :: Mathematics'

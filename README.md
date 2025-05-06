@@ -63,12 +63,14 @@ The library is designed to be extensible, so that the user can easily add new fe
 
 The **CSM** library requires the following dependencies:
 
+- `setuptools`
 - `numpy`
 - `matplotlib`
 
 To install the dependencies, you can run the following command in your terminal:
 
 ```bash
+pip install setuptools
 pip install numpy
 pip install matplotlib
 ```
