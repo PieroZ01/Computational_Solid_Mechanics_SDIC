@@ -91,11 +91,7 @@ python3 setup.py build_ext --inplace
 python3 -m pip install .
 ```
 
-After the installation, you can import the library in your Python scripts using the following command:
-
-```python
-from CSM import *
-```
+After the installation, you can import the library in your Python scripts as shown in the tutorials.
 
 The library is structured in a modular way, so that you can import only the modules you need.
 
