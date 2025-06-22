@@ -67,7 +67,7 @@ The **CSM** library requires the following dependencies:
 - `numpy`
 - `matplotlib`
 
-To install the dependencies, you can run the following command in your terminal:
+To install the dependencies, you can run the following commands in your terminal:
 
 ```bash
 pip install setuptools
